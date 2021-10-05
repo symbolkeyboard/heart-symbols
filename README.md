@@ -9,3 +9,25 @@
 
 All symbols consist of official symbol characters, symbol names and meanings listed according to the Unicode standard. All symbol characters have a unique symbol name and meaning. Explore **text symbols**, learn the heart symbol names and meanings, copy the symbol you like, and paste it anywhere you want.
 ### List of Heart Symbols
+#### ♥ Black Heart Suit
+#### ♡ White Heart Suit
+#### ❤ Black Heart
+#### ❥ Rotated Heavy Black Heart Bullet
+#### ❦ Floral Heart
+#### ❧ Rotated Floral Heart Bullet
+#### ❤️ Red Heart
+#### 💙 Blue Heart
+#### 💚 Green Heart
+#### 💛 Yellow Heart
+#### 💜 Purple Heart
+#### 🖤 Black Heart
+#### 💗 Growing Heart
+#### 💓 Beating Heart
+#### 💔 Broken Heart
+#### 💟 Heart Decoration
+#### 💕 Two Hearts
+#### 💖 Sparkling Heart
+#### ❣️ Heavy Heart Exclamation Mark Ornament
+#### 💘 Heart with Arrow
+#### 💝 Heart with Ribbon
+#### 💞 Revolving Hearts
