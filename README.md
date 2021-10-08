@@ -11,25 +11,25 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Heart Symbols
-#### ♥ Black Heart Suit
-#### ♡ White Heart Suit
-#### ❤ Black Heart
-#### ❥ Rotated Heavy Black Heart Bullet
-#### ❦ Floral Heart
-#### ❧ Rotated Floral Heart Bullet
-#### ❤️ Red Heart
-#### 💙 Blue Heart
-#### 💚 Green Heart
-#### 💛 Yellow Heart
-#### 💜 Purple Heart
-#### 🖤 Black Heart
-#### 💗 Growing Heart
-#### 💓 Beating Heart
-#### 💔 Broken Heart
-#### 💟 Heart Decoration
-#### 💕 Two Hearts
-#### 💖 Sparkling Heart
-#### ❣️ Heavy Heart Exclamation Mark Ornament
-#### 💘 Heart with Arrow
-#### 💝 Heart with Ribbon
-#### 💞 Revolving Hearts
+- ♥ Black Heart Suit
+- ♡ White Heart Suit
+- ❤ Black Heart
+- ❥ Rotated Heavy Black Heart Bullet
+- ❦ Floral Heart
+- ❧ Rotated Floral Heart Bullet
+- ❤️ Red Heart
+- 💙 Blue Heart
+- 💚 Green Heart
+- 💛 Yellow Heart
+- 💜 Purple Heart
+- 🖤 Black Heart
+- 💗 Growing Heart
+- 💓 Beating Heart
+- 💔 Broken Heart
+- 💟 Heart Decoration
+- 💕 Two Hearts
+- 💖 Sparkling Heart
+- ❣️ Heavy Heart Exclamation Mark Ornament
+- 💘 Heart with Arrow
+- 💝 Heart with Ribbon
+- 💞 Revolving Hearts
